@@ -14,3 +14,10 @@ Every hour --> new event not on list?
 
 New event --> auto attend --> text notification. 
 
+## Setup
+
+Don't forget to download the webdriver you'd like to use
+
+setup your venv
+
+pip install -r requirements.txt 
